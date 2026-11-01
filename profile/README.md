@@ -17,31 +17,33 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
 
 ## 프로젝트 둘러보기 및 학생 정보
 
-표의 **작성자, Portfolio, LinkedIn** 칸은 학생이 채워 주세요. 이 표는 입력 폼이 아니므로 GitHub에서 직접 수정하려면 `.github` 저장소에 대한 편집 권한이 필요합니다. 권한이 없다면 변경 사항을 Pull Request로 제출해 주세요.
+각 프로젝트 행의 **작성자 · Portfolio · LinkedIn**을 작성해 주세요. 공공 데이터 분석 프로젝트는 **데이터명 · Repository · Dashboard**도 함께 채워 주세요.
 
-대시보드 주소를 README에서 확인할 수 없는 프로젝트는 **미등록**으로 표시했습니다. 배포 후 실제 주소를 확인해 채워 주세요. 🔒 표시는 비공개 저장소입니다. 이 조직 소개 페이지가 공개되면 저장소 이름도 페이지 방문자에게 표시됩니다.
+[학생 정보 수정하기](https://github.com/HSC-Class01/.github/edit/main/profile/README.md) · 편집 권한이 없는 경우 Pull Request로 제출할 수 있습니다.
+
+**미등록**은 확인된 대시보드 주소가 없는 프로젝트입니다. 배포 후 실제 주소를 추가해 주세요. **🔒**는 접근 권한이 필요한 비공개 저장소입니다.
 
 <table>
   <thead>
-    <tr bgcolor="#245B91">
-      <th rowspan="2" bgcolor="#245B91"><img alt="작성자" src="https://img.shields.io/badge/%EC%9E%91%EC%84%B1%EC%9E%90-245B91?style=flat-square"></th>
-      <th colspan="3" bgcolor="#245B91"><img alt="기업 데이터 분석" src="https://img.shields.io/badge/%EA%B8%B0%EC%97%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D-245B91?style=flat-square"></th>
-      <th colspan="3" bgcolor="#245B91"><img alt="공공 데이터 분석" src="https://img.shields.io/badge/%EA%B3%B5%EA%B3%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D-245B91?style=flat-square"></th>
-      <th rowspan="2" bgcolor="#245B91"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-245B91?style=flat-square"></th>
-      <th rowspan="2" bgcolor="#245B91"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-245B91?style=flat-square"></th>
+    <tr>
+      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-author.svg" alt="작성자" width="64" height="32"></th>
+      <th colspan="3" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-company-analysis.svg" alt="기업 데이터 분석" width="168" height="34"></th>
+      <th colspan="3" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-public-analysis.svg" alt="공공 데이터 분석" width="168" height="34"></th>
+      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-portfolio.svg" alt="Portfolio" width="91" height="32"></th>
+      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-linkedin.svg" alt="LinkedIn" width="84" height="32"></th>
     </tr>
-    <tr bgcolor="#245B91">
-      <th bgcolor="#245B91"><img alt="기업명" src="https://img.shields.io/badge/%EA%B8%B0%EC%97%85%EB%AA%85-245B91?style=flat-square"></th>
-      <th bgcolor="#245B91"><img alt="Repository" src="https://img.shields.io/badge/Repository-245B91?style=flat-square"></th>
-      <th bgcolor="#245B91"><img alt="Dashboard" src="https://img.shields.io/badge/Dashboard-245B91?style=flat-square"></th>
-      <th bgcolor="#245B91"><img alt="데이터명" src="https://img.shields.io/badge/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%85-245B91?style=flat-square"></th>
-      <th bgcolor="#245B91"><img alt="Repository" src="https://img.shields.io/badge/Repository-245B91?style=flat-square"></th>
-      <th bgcolor="#245B91"><img alt="Dashboard" src="https://img.shields.io/badge/Dashboard-245B91?style=flat-square"></th>
+    <tr>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-company.svg" alt="기업명" width="64" height="30"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-repository.svg" alt="Repository" width="100" height="30"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dashboard.svg" alt="Dashboard" width="102" height="30"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dataset.svg" alt="데이터명" width="80" height="30"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-repository.svg" alt="Repository" width="100" height="30"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dashboard.svg" alt="Dashboard" width="102" height="30"></th>
     </tr>
   </thead>
   <tbody>
-    <tr bgcolor="#DCEAF7">
-      <td rowspan="4">수업 목표</td>
+    <tr>
+      <td rowspan="4" align="center"><strong>수업<br>목표</strong></td>
       <td>LG에너지솔루션</td>
       <td><a href="https://github.com/HSC-Class01/JY_LGES">Repository</a></td>
       <td><a href="https://hsc-class01.github.io/JY_LGES/">Dashboard</a></td>
@@ -51,17 +53,17 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td rowspan="4"><a href="https://jinawinwin.vercel.app/">Portfolio</a></td>
       <td rowspan="4"><a href="https://www.linkedin.com/in/jinawinwin/">LinkedIn</a></td>
     </tr>
-    <tr bgcolor="#DCEAF7">
+    <tr>
       <td>LG전자</td>
       <td><a href="https://github.com/HSC-Class01/JY_LGE">Repository</a></td>
       <td><a href="https://hsc-class01.github.io/JY_LGE/">Dashboard</a></td>
     </tr>
-    <tr bgcolor="#DCEAF7">
+    <tr>
       <td>삼성SDI</td>
       <td><a href="https://github.com/HSC-Class01/JY_SamsungSDI">Repository</a></td>
       <td><a href="https://hsc-class01.github.io/JY_SamsungSDI/">Dashboard</a></td>
     </tr>
-    <tr bgcolor="#DCEAF7">
+    <tr>
       <td>SK이노베이션</td>
       <td><a href="https://github.com/HSC-Class01/JY_SKinno">Repository</a></td>
       <td><a href="https://hsc-class01.github.io/JY_SKinno/">Dashboard</a></td>
