@@ -17,9 +17,11 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
 
 ## 프로젝트 둘러보기 및 학생 정보
 
-각 프로젝트 행의 **작성자 · Portfolio · LinkedIn**을 작성해 주세요. 공공 데이터 분석 프로젝트는 **데이터명 · Repository · Dashboard**도 함께 채워 주세요.
+작성자 아이콘을 누르면 해당 GitHub 계정으로 이동합니다. 학생은 본인 행의 **Portfolio · LinkedIn**을 작성해 주세요. 공공 데이터 분석 프로젝트는 **데이터명 · Repository · Dashboard**도 함께 채워 주세요.
 
 [학생 정보 수정하기](https://github.com/HSC-Class01/.github/edit/main/profile/README.md) · 편집 권한이 없는 경우 Pull Request로 제출할 수 있습니다.
+
+작성자는 2026-11-02 기준으로 확인한 기여자입니다. 학생 작성자에서는 jinawinwin, GPT·Codex·Claude 및 자동화 봇을 제외했습니다. **미확인**은 조건에 맞는 기여자를 확인하지 못한 경우입니다.
 
 **미등록**은 확인된 대시보드 주소가 없는 프로젝트입니다. 배포 후 실제 주소를 추가해 주세요. **🔒**는 접근 권한이 필요한 비공개 저장소입니다.
 
@@ -43,7 +45,7 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4" align="center"><strong>수업<br>목표</strong></td>
+      <td rowspan="4" align="center"><strong>수업<br>목표</strong><br><a href="https://github.com/jinawinwin" title="@jinawinwin"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F311670560%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jinawinwin" width="40" height="40"></a><br><sub><a href="https://github.com/jinawinwin">jinawinwin</a></sub></td>
       <td>LG에너지솔루션</td>
       <td><a href="https://github.com/HSC-Class01/JY_LGES">Repository</a></td>
       <td><a href="https://hsc-class01.github.io/JY_LGES/">Dashboard</a></td>
@@ -69,115 +71,115 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td><a href="https://hsc-class01.github.io/JY_SKinno/">Dashboard</a></td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/HW_SKhynix">Repository</a></td><td><a href="https://HSC-Class01.github.io/HW_SKhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/oosudz02-creator" title="@oosudz02-creator"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331575259%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@oosudz02-creator" width="40" height="40"></a></td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/HW_SKhynix">Repository</a></td><td><a href="https://HSC-Class01.github.io/HW_SKhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/JH_SKhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/JH_SKhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/jhyunow24-hub" title="@jhyunow24-hub"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328891459%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jhyunow24-hub" width="40" height="40"></a></td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/JH_SKhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/JH_SKhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>스타벅스</td><td><a href="https://github.com/HSC-Class01/SI_starbucks">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/seinlim0210-boop" title="@seinlim0210-boop"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838993%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@seinlim0210-boop" width="40" height="40"></a></td><td>스타벅스</td><td><a href="https://github.com/HSC-Class01/SI_starbucks">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>모나미</td><td><a href="https://github.com/HSC-Class01/MY_monami">Repository</a></td><td><a href="https://hsc-class01.github.io/MY_monami/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/mignon07" title="@mignon07"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889069%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@mignon07" width="40" height="40"></a></td><td>모나미</td><td><a href="https://github.com/HSC-Class01/MY_monami">Repository</a></td><td><a href="https://hsc-class01.github.io/MY_monami/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>삼익제약</td><td><a href="https://github.com/HSC-Class01/Yc_samik">Repository</a></td><td><a href="https://hsc-class01.github.io/Yc_samik/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/yoochang07" title="@yoochang07"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325839039%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yoochang07" width="40" height="40"></a></td><td>삼익제약</td><td><a href="https://github.com/HSC-Class01/Yc_samik">Repository</a></td><td><a href="https://hsc-class01.github.io/Yc_samik/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>유한양행</td><td><a href="https://github.com/HSC-Class01/HJ_YuHan">Repository</a></td><td><a href="https://hsc-class01.github.io/HJ_YuHan/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/gkwjd0711-blip" title="@gkwjd0711-blip"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325832995%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@gkwjd0711-blip" width="40" height="40"></a></td><td>유한양행</td><td><a href="https://github.com/HSC-Class01/HJ_YuHan">Repository</a></td><td><a href="https://hsc-class01.github.io/HJ_YuHan/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>오리온</td><td><a href="https://github.com/HSC-Class01/SH_orion">Repository</a></td><td><a href="https://hsc-class01.github.io/SH_orion/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/jangseohyeon1" title="@jangseohyeon1"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326741287%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jangseohyeon1" width="40" height="40"></a></td><td>오리온</td><td><a href="https://github.com/HSC-Class01/SH_orion">Repository</a></td><td><a href="https://hsc-class01.github.io/SH_orion/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>유한양행</td><td><a href="https://github.com/HSC-Class01/SH_YuhanCo">Repository</a></td><td><a href="https://hsc-class01.github.io/SH_YuhanCo/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/leesh615" title="@leesh615"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325839273%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@leesh615" width="40" height="40"></a></td><td>유한양행</td><td><a href="https://github.com/HSC-Class01/SH_YuhanCo">Repository</a></td><td><a href="https://hsc-class01.github.io/SH_YuhanCo/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SK하이닉스 <small>(배포 화면은 SK하이닉스, main 소스는 롯데 기준)</small></td><td><a href="https://github.com/HSC-Class01/KYJ-SKhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/KYJ-SKhynix/">SK하이닉스 대시보드</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/yeungim25" title="@yeungim25"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328900501%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yeungim25" width="40" height="40"></a></td><td>SK하이닉스 <small>(배포 화면은 SK하이닉스, main 소스는 롯데 기준)</small></td><td><a href="https://github.com/HSC-Class01/KYJ-SKhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/KYJ-SKhynix/">SK하이닉스 대시보드</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>스타벅스</td><td><a href="https://github.com/HSC-Class01/lbn-starbucks">Repository</a></td><td><a href="https://HSC-Class01.github.io/lbn-starbucks/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/bonai887-lab" title="@bonai887-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889310%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@bonai887-lab" width="40" height="40"></a></td><td>스타벅스</td><td><a href="https://github.com/HSC-Class01/lbn-starbucks">Repository</a></td><td><a href="https://HSC-Class01.github.io/lbn-starbucks/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>Apple <small>(저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/sy_apple">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center">미확인</td><td>Apple <small>(저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/sy_apple">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/dy_skhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/dy_skhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/doyeon0225" title="@doyeon0225"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889225%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@doyeon0225" width="40" height="40"></a></td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/dy_skhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/dy_skhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>CJ푸드빌</td><td><a href="https://github.com/HSC-Class01/jy_CJFoodville">Repository</a></td><td><a href="https://hsc-class01.github.io/jy_CJFoodville/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/wowlstj1-dev" title="@wowlstj1-dev"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331822773%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@wowlstj1-dev" width="40" height="40"></a></td><td>CJ푸드빌</td><td><a href="https://github.com/HSC-Class01/jy_CJFoodville">Repository</a></td><td><a href="https://hsc-class01.github.io/jy_CJFoodville/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>LG전자 <small>(저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/jy_lgelectronic">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center">미확인</td><td>LG전자 <small>(저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/jy_lgelectronic">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>인바디</td><td><a href="https://github.com/HSC-Class01/KTH-inbody">Repository</a></td><td><a href="https://hsc-class01.github.io/KTH-inbody/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/kjkgodqhr10" title="@kjkgodqhr10"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328897936%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kjkgodqhr10" width="40" height="40"></a></td><td>인바디</td><td><a href="https://github.com/HSC-Class01/KTH-inbody">Repository</a></td><td><a href="https://hsc-class01.github.io/KTH-inbody/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SK(주)</td><td><a href="https://github.com/HSC-Class01/-HC-SK">Repository</a></td><td><a href="https://hsc-class01.github.io/-HC-SK/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/yee1234512345-stack" title="@yee1234512345-stack"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328893593%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yee1234512345-stack" width="40" height="40"></a></td><td>SK(주)</td><td><a href="https://github.com/HSC-Class01/-HC-SK">Repository</a></td><td><a href="https://hsc-class01.github.io/-HC-SK/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>현대건설</td><td><a href="https://github.com/HSC-Class01/KTG_Hyundai">Repository</a></td><td><a href="https://hsc-class01.github.io/KTG_Hyundai/dashboard/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/kwontk2006-ai" title="@kwontk2006-ai"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325828076%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kwontk2006-ai" width="40" height="40"></a></td><td>현대건설</td><td><a href="https://github.com/HSC-Class01/KTG_Hyundai">Repository</a></td><td><a href="https://hsc-class01.github.io/KTG_Hyundai/dashboard/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/YG-sk-hynix">Repository</a></td><td><a href="https://hsc-class01.github.io/YG-sk-hynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/yg01546" title="@yg01546"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331822173%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yg01546" width="40" height="40"></a></td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/YG-sk-hynix">Repository</a></td><td><a href="https://hsc-class01.github.io/YG-sk-hynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>카카오게임즈</td><td><a href="https://github.com/HSC-Class01/HSC_kakaogames">Repository</a></td><td><a href="https://hsc-class01.github.io/HSC_kakaogames/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/ghkdtpcks00-ux" title="@ghkdtpcks00-ux"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331822185%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ghkdtpcks00-ux" width="40" height="40"></a></td><td>카카오게임즈</td><td><a href="https://github.com/HSC-Class01/HSC_kakaogames">Repository</a></td><td><a href="https://hsc-class01.github.io/HSC_kakaogames/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/SY_SKhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/SY_SKhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/sangyun04" title="@sangyun04"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889162%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sangyun04" width="40" height="40"></a></td><td>SK하이닉스</td><td><a href="https://github.com/HSC-Class01/SY_SKhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/SY_SKhynix/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>삼성전자</td><td><a href="https://github.com/HSC-Class01/cs-samsung">Repository</a></td><td><a href="https://hsc-class01.github.io/cs-samsung/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/chansu0629-cloud" title="@chansu0629-cloud"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328892987%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@chansu0629-cloud" width="40" height="40"></a></td><td>삼성전자</td><td><a href="https://github.com/HSC-Class01/cs-samsung">Repository</a></td><td><a href="https://hsc-class01.github.io/cs-samsung/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>대한전선</td><td><a href="https://github.com/HSC-Class01/sjw_DH">Repository</a></td><td><a href="https://hsc-class01.github.io/sjw_DH/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/stwoitwo2-prog" title="@stwoitwo2-prog"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331823697%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@stwoitwo2-prog" width="40" height="40"></a></td><td>대한전선</td><td><a href="https://github.com/HSC-Class01/sjw_DH">Repository</a></td><td><a href="https://hsc-class01.github.io/sjw_DH/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>LG전자 🔒 <small>(비공개·저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/BWJ_LGElectronic">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center">미확인</td><td>LG전자 🔒 <small>(비공개·저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/BWJ_LGElectronic">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>오리온</td><td><a href="https://github.com/HSC-Class01/hj_orion">Repository</a></td><td><a href="https://hsc-class01.github.io/hj_orion/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/emishyeon-oss" title="@emishyeon-oss"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331820866%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@emishyeon-oss" width="40" height="40"></a></td><td>오리온</td><td><a href="https://github.com/HSC-Class01/hj_orion">Repository</a></td><td><a href="https://hsc-class01.github.io/hj_orion/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>농심</td><td><a href="https://github.com/HSC-Class01/YR_nongshim">Repository</a></td><td><a href="https://HSC-Class01.github.io/YR_nongshim/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/yerim1q2w3e4r5t-ai" title="@yerim1q2w3e4r5t-ai"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889028%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yerim1q2w3e4r5t-ai" width="40" height="40"></a></td><td>농심</td><td><a href="https://github.com/HSC-Class01/YR_nongshim">Repository</a></td><td><a href="https://HSC-Class01.github.io/YR_nongshim/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>농심</td><td><a href="https://github.com/HSC-Class01/JH_NONGSIM">Repository</a></td><td><a href="https://hsc-class01.github.io/JH_NONGSIM/">예상 Dashboard 주소</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center">미확인</td><td>농심</td><td><a href="https://github.com/HSC-Class01/JH_NONGSIM">Repository</a></td><td><a href="https://hsc-class01.github.io/JH_NONGSIM/">예상 Dashboard 주소</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>LG전자</td><td><a href="https://github.com/HSC-Class01/BWJ_LGElectronic-">Repository</a></td><td><a href="https://hsc-class01.github.io/BWJ_LGElectronic-/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/baewj03-ui" title="@baewj03-ui"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328896744%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@baewj03-ui" width="40" height="40"></a></td><td>LG전자</td><td><a href="https://github.com/HSC-Class01/BWJ_LGElectronic-">Repository</a></td><td><a href="https://hsc-class01.github.io/BWJ_LGElectronic-/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>포스코DX</td><td><a href="https://github.com/HSC-Class01/KTW-POSCODX">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/k26723215-web" title="@k26723215-web"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328897318%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@k26723215-web" width="40" height="40"></a></td><td>포스코DX</td><td><a href="https://github.com/HSC-Class01/KTW-POSCODX">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>알테오젠 <small>(저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/SI_alteogen">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center">미확인</td><td>알테오젠 <small>(저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/SI_alteogen">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>NAVER</td><td><a href="https://github.com/HSC-Class01/LYA-NAVER">Repository</a></td><td><a href="https://hsc-class01.github.io/LYA-NAVER/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/yoouunaa-bit" title="@yoouunaa-bit"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328890115%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yoouunaa-bit" width="40" height="40"></a></td><td>NAVER</td><td><a href="https://github.com/HSC-Class01/LYA-NAVER">Repository</a></td><td><a href="https://hsc-class01.github.io/LYA-NAVER/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>알테오젠</td><td><a href="https://github.com/HSC-Class01/SI-alteogen">Repository</a></td><td><a href="https://HSC-Class01.github.io/SI-alteogen/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/seinlim0210-boop" title="@seinlim0210-boop"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838993%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@seinlim0210-boop" width="40" height="40"></a></td><td>알테오젠</td><td><a href="https://github.com/HSC-Class01/SI-alteogen">Repository</a></td><td><a href="https://HSC-Class01.github.io/SI-alteogen/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>엔젤로보틱스</td><td><a href="https://github.com/HSC-Class01/HERA_angel-robotics">Repository</a></td><td><a href="https://HSC-Class01.github.io/HERA_angel-robotics/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/hera5684" title="@hera5684"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838927%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@hera5684" width="40" height="40"></a></td><td>엔젤로보틱스</td><td><a href="https://github.com/HSC-Class01/HERA_angel-robotics">Repository</a></td><td><a href="https://HSC-Class01.github.io/HERA_angel-robotics/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>카카오</td><td><a href="https://github.com/HSC-Class01/lbn-kakao">Repository</a></td><td><a href="https://hsc-class01.github.io/lbn-kakao/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/bonai887-lab" title="@bonai887-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889310%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@bonai887-lab" width="40" height="40"></a></td><td>카카오</td><td><a href="https://github.com/HSC-Class01/lbn-kakao">Repository</a></td><td><a href="https://hsc-class01.github.io/lbn-kakao/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>SM엔터테인먼트</td><td><a href="https://github.com/HSC-Class01/Sy_sm">Repository</a></td><td><a href="https://hsc-class01.github.io/Sy_sm/">예상 Dashboard 주소</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/parkn72-cmd" title="@parkn72-cmd"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838871%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@parkn72-cmd" width="40" height="40"></a></td><td>SM엔터테인먼트</td><td><a href="https://github.com/HSC-Class01/Sy_sm">Repository</a></td><td><a href="https://hsc-class01.github.io/Sy_sm/">예상 Dashboard 주소</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>현대건설</td><td><a href="https://github.com/HSC-Class01/TG_hyundai">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/kwontk2006-ai" title="@kwontk2006-ai"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325828076%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kwontk2006-ai" width="40" height="40"></a></td><td>현대건설</td><td><a href="https://github.com/HSC-Class01/TG_hyundai">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>한섬</td><td><a href="https://github.com/HSC-Class01/SH_Handsome">Repository</a></td><td><a href="https://hsc-class01.github.io/SH_Handsome/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/jominy2025-creator" title="@jominy2025-creator"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329881519%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jominy2025-creator" width="40" height="40"></a></td><td>한섬</td><td><a href="https://github.com/HSC-Class01/SH_Handsome">Repository</a></td><td><a href="https://hsc-class01.github.io/SH_Handsome/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>Sky Labs 🔒 <small>(비공개·저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/PSY_skylabs">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td align="center">미확인</td><td>Sky Labs 🔒 <small>(비공개·저장소 비어 있음)</small></td><td><a href="https://github.com/HSC-Class01/PSY_skylabs">Repository</a></td><td>미등록</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
   </tbody>
 </table>
