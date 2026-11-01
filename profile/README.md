@@ -41,7 +41,7 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
   </thead>
   <tbody>
     <tr bgcolor="#DCEAF7">
-      <td rowspan="4">수업 목표 제시</td>
+      <td rowspan="4">수업 목표</td>
       <td>LG에너지솔루션</td>
       <td><a href="https://github.com/HSC-Class01/JY_LGES">Repository</a></td>
       <td><a href="https://hsc-class01.github.io/JY_LGES/">Dashboard</a></td>
