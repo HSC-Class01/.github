@@ -91,7 +91,7 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td><td>유한양행</td><td><a href="https://github.com/HSC-Class01/SH_YuhanCo">Repository</a></td><td><a href="https://hsc-class01.github.io/SH_YuhanCo/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td><td>롯데 <small>(README 주소 확인 필요)</small></td><td><a href="https://github.com/HSC-Class01/KYJ-SKhynix">Repository</a></td><td><a href="https://hsc-class01.github.io/KYJ-LOTTE/">README 주소</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+      <td>&nbsp;</td><td>SK하이닉스 <small>(README만 변경, 구현은 롯데지주 기준)</small></td><td><a href="https://github.com/HSC-Class01/KYJ-SKhynix">Repository</a></td><td>SK하이닉스 대시보드 전환 전</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;</td><td>스타벅스</td><td><a href="https://github.com/HSC-Class01/lbn-starbucks">Repository</a></td><td><a href="https://HSC-Class01.github.io/lbn-starbucks/">Dashboard</a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
