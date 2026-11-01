@@ -26,19 +26,19 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
 <table>
   <thead>
     <tr>
-      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-author.svg" alt="작성자" width="64" height="32"></th>
-      <th colspan="3" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-company-analysis.svg" alt="기업 데이터 분석" width="168" height="34"></th>
-      <th colspan="3" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-public-analysis.svg" alt="공공 데이터 분석" width="168" height="34"></th>
-      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-portfolio.svg" alt="Portfolio" width="91" height="32"></th>
-      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-linkedin.svg" alt="LinkedIn" width="84" height="32"></th>
+      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-author.svg?v=uniform18" alt="작성자" width="64" height="32"></th>
+      <th colspan="3" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-company-analysis.svg?v=uniform18" alt="기업 데이터 분석" width="168" height="32"></th>
+      <th colspan="3" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-public-analysis.svg?v=uniform18" alt="공공 데이터 분석" width="168" height="32"></th>
+      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-portfolio.svg?v=uniform18" alt="Portfolio" width="91" height="32"></th>
+      <th rowspan="2" align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-linkedin.svg?v=uniform18" alt="LinkedIn" width="84" height="32"></th>
     </tr>
     <tr>
-      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-company.svg" alt="기업명" width="64" height="30"></th>
-      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-repository.svg" alt="Repository" width="100" height="30"></th>
-      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dashboard.svg" alt="Dashboard" width="102" height="30"></th>
-      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dataset.svg" alt="데이터명" width="80" height="30"></th>
-      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-repository.svg" alt="Repository" width="100" height="30"></th>
-      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dashboard.svg" alt="Dashboard" width="102" height="30"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-company.svg?v=uniform18" alt="기업명" width="64" height="32"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-repository.svg?v=uniform18" alt="Repository" width="100" height="32"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dashboard.svg?v=uniform18" alt="Dashboard" width="102" height="32"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dataset.svg?v=uniform18" alt="데이터명" width="80" height="32"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-repository.svg?v=uniform18" alt="Repository" width="100" height="32"></th>
+      <th align="center"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/table-header-dashboard.svg?v=uniform18" alt="Dashboard" width="102" height="32"></th>
     </tr>
   </thead>
   <tbody>
