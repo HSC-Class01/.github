@@ -193,3 +193,201 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
 - 확인되지 않은 값은 임의로 채우지 않고, 한계와 누락을 명확히 표시합니다.
 - API 키, 비밀번호, 개인 정보 등 민감한 정보를 공개 저장소에 올리지 않습니다.
 - 프로젝트 결과는 학습과 정보 제공을 위한 것이며, 투자 판단 전에는 원자료와 최신 공시를 확인합니다.
+
+---
+
+# HSC-Class01 (English)
+
+> **Project workspace for Section 1 of “AI That Companies Want,” Fall Semester 2026.**
+
+## Project Objectives
+
+1. We place a high value on AI ethics. All students participating in the projects have completed UNESCO’s AI ethics course.  
+   [![Global MOOC on the Ethics of AI](https://img.shields.io/badge/Global%20MOOC%20on%20the%20Ethics%20of%20AI-Coursera-0056D2?logo=coursera&logoColor=white)](https://www.coursera.org/learn/global-mooc-on-the-ethics-of-ai)
+2. Build AI agents to analyze the financials of listed companies using DART disclosure data and write analysis reports.
+3. Build analytics AI agents using public data and write analysis reports.
+
+## About
+
+HSC-Class01 is a learning space for analyzing company and industry data and documenting project outcomes. We collect and organize publicly available data and use it to produce financial analyses and dashboards.
+
+Each repository documents the project’s purpose, usage instructions, data sources, and scope of analysis to support learning and collaboration.
+
+## Explore Projects and Student Information
+
+Click a contributor’s icon to visit their GitHub profile. Students should add their **Portfolio · LinkedIn** links to their own rows. For public data analysis projects, also fill in **Dataset · Repository · Dashboard**.
+
+**Not listed** means that a dashboard URL has not been confirmed. Add the actual URL after deployment. **🔒** indicates a private repository that requires access permission.
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2" align="center"><strong>Contributor</strong></th>
+      <th colspan="3" align="center"><strong>Corporate Data Analysis</strong></th>
+      <th colspan="3" align="center"><strong>Public Data Analysis</strong></th>
+      <th rowspan="2" align="center"><strong>Portfolio</strong></th>
+      <th rowspan="2" align="center"><strong>LinkedIn</strong></th>
+    </tr>
+    <tr>
+      <th align="center"><strong>Company</strong></th>
+      <th align="center"><strong>Repository</strong></th>
+      <th align="center"><strong>Dashboard</strong></th>
+      <th align="center"><strong>Dataset</strong></th>
+      <th align="center"><strong>Repository</strong></th>
+      <th align="center"><strong>Dashboard</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4" align="center"><strong>Course<br>Objectives</strong><br><a href="https://github.com/jinawinwin" title="@jinawinwin"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F311670560%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jinawinwin" width="40" height="40"></a></td>
+      <td>LG Energy Solution</td>
+      <td align="center"><a href="https://github.com/HSC-Class01/JY_LGES" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://hsc-class01.github.io/JY_LGES/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td rowspan="4">&nbsp;</td>
+      <td rowspan="4">&nbsp;</td>
+      <td rowspan="4">&nbsp;</td>
+      <td rowspan="4"><a href="https://jinawinwin.vercel.app/">Portfolio</a></td>
+      <td rowspan="4"><a href="https://www.linkedin.com/in/jinawinwin/">LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>LG Electronics</td>
+      <td align="center"><a href="https://github.com/HSC-Class01/JY_LGE" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://hsc-class01.github.io/JY_LGE/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td>
+    </tr>
+    <tr>
+      <td>Samsung SDI</td>
+      <td align="center"><a href="https://github.com/HSC-Class01/JY_SamsungSDI" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://hsc-class01.github.io/JY_SamsungSDI/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td>
+    </tr>
+    <tr>
+      <td>SK Innovation</td>
+      <td align="center"><a href="https://github.com/HSC-Class01/JY_SKinno" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://hsc-class01.github.io/JY_SKinno/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/oosudz02-creator" title="@oosudz02-creator"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331575259%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@oosudz02-creator" width="40" height="40"></a></td><td>SK hynix</td><td align="center"><a href="https://github.com/HSC-Class01/HW_SKhynix" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://HSC-Class01.github.io/HW_SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/jhyunow24-hub" title="@jhyunow24-hub"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328891459%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jhyunow24-hub" width="40" height="40"></a></td><td>SK hynix</td><td align="center"><a href="https://github.com/HSC-Class01/JH_SKhynix" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/JH_SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/mignon07" title="@mignon07"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889069%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@mignon07" width="40" height="40"></a></td><td>Monami</td><td align="center"><a href="https://github.com/HSC-Class01/MY_monami" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/MY_monami/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/yoochang07" title="@yoochang07"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325839039%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yoochang07" width="40" height="40"></a></td><td>Samik Pharmaceutical</td><td align="center"><a href="https://github.com/HSC-Class01/Yc_samik" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/Yc_samik/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/gkwjd0711-blip" title="@gkwjd0711-blip"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325832995%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@gkwjd0711-blip" width="40" height="40"></a></td><td>Yuhan Corporation</td><td align="center"><a href="https://github.com/HSC-Class01/HJ_YuHan" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/HJ_YuHan/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/jangseohyeon1" title="@jangseohyeon1"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F326741287%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jangseohyeon1" width="40" height="40"></a></td><td>Orion</td><td align="center"><a href="https://github.com/HSC-Class01/SH_orion" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/SH_orion/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/leesh615" title="@leesh615"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325839273%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@leesh615" width="40" height="40"></a></td><td>Yuhan Corporation</td><td align="center"><a href="https://github.com/HSC-Class01/SH_YuhanCo" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/SH_YuhanCo/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/yeungim25" title="@yeungim25"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328900501%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yeungim25" width="40" height="40"></a></td><td>SK hynix</td><td align="center"><a href="https://github.com/HSC-Class01/KYJ-SKhynix" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/KYJ-SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/bonai887-lab" title="@bonai887-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889310%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@bonai887-lab" width="40" height="40"></a></td><td>Starbucks</td><td align="center"><a href="https://github.com/HSC-Class01/lbn-starbucks" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://HSC-Class01.github.io/lbn-starbucks/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/doyeon0225" title="@doyeon0225"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889225%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@doyeon0225" width="40" height="40"></a></td><td>SK hynix</td><td align="center"><a href="https://github.com/HSC-Class01/dy_skhynix" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/dy_skhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/wowlstj1-dev" title="@wowlstj1-dev"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331822773%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@wowlstj1-dev" width="40" height="40"></a></td><td>CJ Foodville</td><td align="center"><a href="https://github.com/HSC-Class01/jy_CJFoodville" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/jy_CJFoodville/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/kjkgodqhr10" title="@kjkgodqhr10"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328897936%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kjkgodqhr10" width="40" height="40"></a></td><td>InBody</td><td align="center"><a href="https://github.com/HSC-Class01/KTH-inbody" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/KTH-inbody/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/yee1234512345-stack" title="@yee1234512345-stack"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328893593%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yee1234512345-stack" width="40" height="40"></a></td><td>SK Inc.</td><td align="center"><a href="https://github.com/HSC-Class01/-HC-SK" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/-HC-SK/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/kwontk2006-ai" title="@kwontk2006-ai"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325828076%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kwontk2006-ai" width="40" height="40"></a></td><td>Hyundai Engineering &amp; Construction</td><td align="center"><a href="https://github.com/HSC-Class01/KTG_Hyundai" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/KTG_Hyundai/dashboard/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/yg01546" title="@yg01546"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331822173%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yg01546" width="40" height="40"></a></td><td>SK hynix</td><td align="center"><a href="https://github.com/HSC-Class01/YG-sk-hynix" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/YG-sk-hynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/ghkdtpcks00-ux" title="@ghkdtpcks00-ux"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331822185%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ghkdtpcks00-ux" width="40" height="40"></a></td><td>Kakao Games</td><td align="center"><a href="https://github.com/HSC-Class01/HSC_kakaogames" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/HSC_kakaogames/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/sangyun04" title="@sangyun04"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889162%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sangyun04" width="40" height="40"></a></td><td>SK hynix</td><td align="center"><a href="https://github.com/HSC-Class01/SY_SKhynix" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/SY_SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/chansu0629-cloud" title="@chansu0629-cloud"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328892987%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@chansu0629-cloud" width="40" height="40"></a></td><td>Samsung Electronics</td><td align="center"><a href="https://github.com/HSC-Class01/cs-samsung" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/cs-samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/stwoitwo2-prog" title="@stwoitwo2-prog"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331823697%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@stwoitwo2-prog" width="40" height="40"></a></td><td>Taihan Cable &amp; Solution</td><td align="center"><a href="https://github.com/HSC-Class01/sjw_DH" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/sjw_DH/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/emishyeon-oss" title="@emishyeon-oss"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331820866%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@emishyeon-oss" width="40" height="40"></a></td><td>Orion</td><td align="center"><a href="https://github.com/HSC-Class01/hj_orion" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/hj_orion/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/yerim1q2w3e4r5t-ai" title="@yerim1q2w3e4r5t-ai"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889028%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yerim1q2w3e4r5t-ai" width="40" height="40"></a></td><td>Nongshim</td><td align="center"><a href="https://github.com/HSC-Class01/YR_nongshim" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://HSC-Class01.github.io/YR_nongshim/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/baewj03-ui" title="@baewj03-ui"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328896744%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@baewj03-ui" width="40" height="40"></a></td><td>LG Electronics</td><td align="center"><a href="https://github.com/HSC-Class01/BWJ_LGElectronic-" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/BWJ_LGElectronic-/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/yoouunaa-bit" title="@yoouunaa-bit"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328890115%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@yoouunaa-bit" width="40" height="40"></a></td><td>NAVER</td><td align="center"><a href="https://github.com/HSC-Class01/LYA-NAVER" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/LYA-NAVER/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/seinlim0210-boop" title="@seinlim0210-boop"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838993%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@seinlim0210-boop" width="40" height="40"></a></td><td>Alteogen</td><td align="center"><a href="https://github.com/HSC-Class01/SI-alteogen" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://HSC-Class01.github.io/SI-alteogen/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/hera5684" title="@hera5684"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838927%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@hera5684" width="40" height="40"></a></td><td>Angel Robotics</td><td align="center"><a href="https://github.com/HSC-Class01/HERA_angel-robotics" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://HSC-Class01.github.io/HERA_angel-robotics/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/bonai887-lab" title="@bonai887-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328889310%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@bonai887-lab" width="40" height="40"></a></td><td>Kakao</td><td align="center"><a href="https://github.com/HSC-Class01/lbn-kakao" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/lbn-kakao/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/parkn72-cmd" title="@parkn72-cmd"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838871%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@parkn72-cmd" width="40" height="40"></a></td><td>SM Entertainment</td><td align="center"><a href="https://github.com/HSC-Class01/Sy_sm" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/Sy_sm/" title="Open dashboard (deployment not verified)"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard (deployment not verified)" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/jominy2025-creator" title="@jominy2025-creator"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329881519%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jominy2025-creator" width="40" height="40"></a></td><td>HANDSOME</td><td align="center"><a href="https://github.com/HSC-Class01/SH_Handsome" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/SH_Handsome/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/seinlim0210-boop" title="@seinlim0210-boop"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325838993%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@seinlim0210-boop" width="40" height="40"></a></td><td>Starbucks</td><td align="center"><a href="https://github.com/HSC-Class01/SI_starbucks" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">Unconfirmed</td><td>Apple <small>(Empty repository)</small></td><td align="center"><a href="https://github.com/HSC-Class01/sy_apple" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">Unconfirmed</td><td>LG Electronics <small>(Empty repository)</small></td><td align="center"><a href="https://github.com/HSC-Class01/jy_lgelectronic" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">Unconfirmed</td><td>LG Electronics 🔒 <small>(Private · Empty repository)</small></td><td align="center"><a href="https://github.com/HSC-Class01/BWJ_LGElectronic" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">Unconfirmed</td><td>Nongshim</td><td align="center"><a href="https://github.com/HSC-Class01/JH_NONGSIM" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td align="center"><a href="https://hsc-class01.github.io/JH_NONGSIM/" title="Open dashboard (deployment not verified)"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/dashboard-06.svg" alt="Open dashboard (deployment not verified)" width="36" height="36"></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/k26723215-web" title="@k26723215-web"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328897318%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@k26723215-web" width="40" height="40"></a></td><td>POSCO DX</td><td align="center"><a href="https://github.com/HSC-Class01/KTW-POSCODX" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">Unconfirmed</td><td>Alteogen <small>(Empty repository)</small></td><td align="center"><a href="https://github.com/HSC-Class01/SI_alteogen" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/kwontk2006-ai" title="@kwontk2006-ai"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325828076%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kwontk2006-ai" width="40" height="40"></a></td><td>Hyundai Engineering &amp; Construction</td><td align="center"><a href="https://github.com/HSC-Class01/TG_hyundai" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">Unconfirmed</td><td>Sky Labs 🔒 <small>(Private · Empty repository)</small></td><td align="center"><a href="https://github.com/HSC-Class01/PSY_skylabs" title="Open repository"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/repository-02.svg" alt="Open repository" width="36" height="36"></a></td><td>Not listed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+## How to Use the Projects
+
+1. Select a repository and read its `README` for the project’s purpose and instructions.
+2. Check the data sources, collection period, scope of analysis, and limitations.
+3. Store any required API keys in the repository’s GitHub Actions Secrets. Do not disclose them in code or documentation.
+4. Use the repository’s `Issues` or Pull Requests for questions and suggestions. First check whether those features are enabled.
+
+## Shared Principles
+
+- Record the sources of data and analysis results.
+- Do not fill in unverified values arbitrarily. Clearly state limitations and missing data.
+- Do not publish sensitive information, including API keys, passwords, and personal information, in public repositories.
+- Project outputs are intended for learning and information. Check the original data and the latest disclosures before making investment decisions.
