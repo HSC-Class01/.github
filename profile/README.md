@@ -196,7 +196,7 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
 
 ---
 
-# HSC-Class01 (English)
+# Course Introduction
 
 > **Project workspace for Section 1 of “AI That Companies Want,” Fall Semester 2026.**
 
