@@ -34,3 +34,12 @@
 | D09 | ![D09](dashboard-09.svg) | Donut chart |
 | D10 | ![D10](dashboard-10.svg) | Scatter plot |
 
+## Portfolio Code
+
+포트폴리오 제작 코드 저장소 링크에는 **P01 · Code folder**를 사용합니다. 실제 표에는 기존 링크 배지와 동일하게 36 × 36 크기로 표시합니다.
+
+| 번호 | 아이콘 | 디자인 |
+| --- | --- | --- |
+| P01 | ![P01](portfolio-code-01.svg) | Code folder |
+
+링크 설명은 한국어 표에서 `포트폴리오 코드 저장소 열기`, 영어 표에서 `Open portfolio code repository`로 표시합니다.
