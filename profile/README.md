@@ -50,7 +50,7 @@ HSC-Class01은 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td rowspan="4">&nbsp;</td>
       <td rowspan="4">&nbsp;</td>
       <td rowspan="4">&nbsp;</td>
-      <td rowspan="4" align="center"><a href="https://jinawinwin.vercel.app/" title="포트폴리오 사이트 열기"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/portfolio-site-02.svg" alt="포트폴리오 사이트 열기" width="36" height="36"></a></td>
+      <td rowspan="4" align="center"><a href="https://github.com/HSC-Class01/jeeyoun_portfolio" title="포트폴리오 코드 저장소 열기 · jeeyoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/portfolio-code-01.svg" alt="포트폴리오 코드 저장소 열기 · jeeyoun_portfolio" width="36" height="36"></a> <a href="https://jinawinwin.vercel.app/" title="포트폴리오 사이트 열기"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/portfolio-site-02.svg" alt="포트폴리오 사이트 열기" width="36" height="36"></a></td>
       <td rowspan="4"><a href="https://www.linkedin.com/in/jinawinwin/">LinkedIn</a></td>
     </tr>
     <tr>
@@ -253,7 +253,7 @@ In the **Portfolio** column, the **code folder** badge opens the source reposito
       <td rowspan="4">&nbsp;</td>
       <td rowspan="4">&nbsp;</td>
       <td rowspan="4">&nbsp;</td>
-      <td rowspan="4" align="center"><a href="https://jinawinwin.vercel.app/" title="Open portfolio website"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/portfolio-site-02.svg" alt="Open portfolio website" width="36" height="36"></a></td>
+      <td rowspan="4" align="center"><a href="https://github.com/HSC-Class01/jeeyoun_portfolio" title="Open portfolio code repository · jeeyoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/portfolio-code-01.svg" alt="Open portfolio code repository · jeeyoun_portfolio" width="36" height="36"></a> <a href="https://jinawinwin.vercel.app/" title="Open portfolio website"><img src="https://raw.githubusercontent.com/HSC-Class01/.github/main/profile/assets/link-badges/portfolio-site-02.svg" alt="Open portfolio website" width="36" height="36"></a></td>
       <td rowspan="4"><a href="https://www.linkedin.com/in/jinawinwin/">LinkedIn</a></td>
     </tr>
     <tr>

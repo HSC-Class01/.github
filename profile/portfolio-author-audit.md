@@ -97,3 +97,11 @@ JH_portfolio의 커밋 작성자는 GitHub 계정에 연결되지 않은 `FactCh
 | [HAJEONG_portfolio](https://github.com/HSC-Class01/HAJEONG_portfolio) | @gkwjd0711-blip | Vercel 계정 관리 화면 주소가 등록되어 있음. 공개 포트폴리오 사이트 주소 확인 필요 |
 | [PSY_portfolio](https://github.com/HSC-Class01/PSY_portfolio) | @sangyun04 | 포트폴리오 사이트 주소가 등록되어 있지 않음 |
 | [SH_portfolio](https://github.com/HSC-Class01/SH_portfolio) | @jangseohyeon1 | 포트폴리오 사이트 주소가 등록되어 있지 않음 |
+
+## 수업 목표 작성자 포트폴리오
+
+| GitHub 계정 | 포트폴리오 코드 저장소 |
+| --- | --- |
+| [@jinawinwin](https://github.com/jinawinwin) | [jeeyoun_portfolio](https://github.com/HSC-Class01/jeeyoun_portfolio) |
+
+한국어·영어 표의 수업 목표 행에서 코드 폴더 배지로 저장소를 열 수 있습니다. 같은 칸의 프로필 카드 배지는 기존 포트폴리오 사이트로 연결됩니다.
