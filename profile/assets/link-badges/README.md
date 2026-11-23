@@ -43,3 +43,13 @@
 | P01 | ![P01](portfolio-code-01.svg) | Code folder |
 
 링크 설명은 한국어 표에서 `포트폴리오 코드 저장소 열기`, 영어 표에서 `Open portfolio code repository`로 표시합니다.
+
+## Portfolio Website
+
+첨부 시안의 **P02 · Profile card** 아이콘은 Vercel 포트폴리오 사이트 링크에 사용합니다. 코드 저장소를 여는 P01 배지 옆에 36 × 36 크기로 표시합니다.
+
+| 번호 | 아이콘 | 연결 대상 |
+| --- | --- | --- |
+| P02 | ![P02](portfolio-site-02.svg) | 등록된 Vercel 포트폴리오 사이트 |
+
+두 코드 저장소가 같은 사이트 주소를 등록한 경우에는 사이트 배지를 한 번만 표시합니다. 배지 설명에는 해당 저장소명이 표시됩니다.

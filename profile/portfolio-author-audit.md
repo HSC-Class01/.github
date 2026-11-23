@@ -62,3 +62,38 @@
 JH_portfolio의 커밋 작성자는 GitHub 계정에 연결되지 않은 `FactChat Code`와 `BAZE`입니다. 본문에 JH_SKhynix 프로젝트 링크가 있으나, 계정까지 확정할 근거는 아직 부족하므로 포트폴리오 배지는 연결하지 않았습니다.
 
 기업 프로젝트 중 sy_apple, jy_lgelectronic, SI_alteogen, BWJ_LGElectronic, PSY_skylabs는 커밋이 없어 작성자 미확인을 유지했습니다. lbn-starbucks와 TG_hyundai는 조회가 404로 반환되었습니다. 404만으로 삭제 여부나 비공개 여부를 단정하지 않았습니다.
+
+## Vercel 포트폴리오 사이트
+
+확인일: 2026-11-23 (한국시간)
+
+학생 17명의 포트폴리오 저장소 18개에 등록된 사이트 주소를 확인했습니다. 주소의 근거는 각 GitHub 저장소 About의 Homepage 값입니다. 같은 계정의 두 저장소가 같은 사이트를 가리키는 경우 사이트 배지는 한 번만 표시합니다. 추적용 utm_ 매개변수는 링크에서 제외했습니다.
+
+| GitHub 계정 | 포트폴리오 코드 저장소 | 등록된 Vercel 사이트 |
+| --- | --- | --- |
+| [@bonai887-lab](https://github.com/bonai887-lab) | [Bn_portfolio](https://github.com/HSC-Class01/Bn_portfolio) | [bnportfolio-sigma.vercel.app](https://bnportfolio-sigma.vercel.app/) |
+| [@elwlrma486-design](https://github.com/elwlrma486-design) | [khm_portfolio](https://github.com/HSC-Class01/khm_portfolio) | [khm-portfolio-two.vercel.app](https://khm-portfolio-two.vercel.app/) |
+| [@emishyeon-oss](https://github.com/emishyeon-oss) | [khj_portfolio](https://github.com/HSC-Class01/khj_portfolio) | [khj-portfolio-roan.vercel.app](https://khj-portfolio-roan.vercel.app/) |
+| [@ghkdtpcks00-ux](https://github.com/ghkdtpcks00-ux) | [HSC_portfolio](https://github.com/HSC-Class01/HSC_portfolio) | [hsc-portfolio-rho.vercel.app](https://hsc-portfolio-rho.vercel.app/) |
+| [@hera5684](https://github.com/hera5684) | [HJ_portfolio](https://github.com/HSC-Class01/HJ_portfolio) | [hj-portfolio-nine.vercel.app](https://hj-portfolio-nine.vercel.app/) |
+| [@kangjunha03](https://github.com/kangjunha03) | [junha_portfolio](https://github.com/HSC-Class01/junha_portfolio) | [junha-portfolio-sable.vercel.app](https://junha-portfolio-sable.vercel.app/) |
+| [@kjkgodqhr10](https://github.com/kjkgodqhr10) | [KTH_potfolio](https://github.com/HSC-Class01/KTH_potfolio) | [kth-potfolio.vercel.app](https://kth-potfolio.vercel.app/) |
+| [@kwontk2006-ai](https://github.com/kwontk2006-ai) | [KTG_portforlio](https://github.com/HSC-Class01/KTG_portforlio) | [kwontaegeun.vercel.app](https://kwontaegeun.vercel.app/) |
+| [@leesh615](https://github.com/leesh615) | [LSH_portfolio](https://github.com/HSC-Class01/LSH_portfolio) · [sihyeonglee_portfolio](https://github.com/HSC-Class01/sihyeonglee_portfolio) | [sihyeongleeportfolio.vercel.app](https://sihyeongleeportfolio.vercel.app/) |
+| [@mignon07](https://github.com/mignon07) | [MY_portfolio](https://github.com/HSC-Class01/MY_portfolio) | [my-portfolio-six-psi-7rjxpsizai.vercel.app](https://my-portfolio-six-psi-7rjxpsizai.vercel.app/) |
+| [@oosudz02-creator](https://github.com/oosudz02-creator) | [HW_portfolio](https://github.com/HSC-Class01/HW_portfolio) | [hw-portfolio-sand.vercel.app](https://hw-portfolio-sand.vercel.app/) |
+| [@parkn72-cmd](https://github.com/parkn72-cmd) | [Sy_portfolio](https://github.com/HSC-Class01/Sy_portfolio) | [syportfolio-olive.vercel.app](https://syportfolio-olive.vercel.app/) |
+| [@seinlim0210-boop](https://github.com/seinlim0210-boop) | [LSI_portfolio](https://github.com/HSC-Class01/LSI_portfolio) | [lsiportfolio.vercel.app](https://lsiportfolio.vercel.app/) |
+| [@wowlstj1-dev](https://github.com/wowlstj1-dev) | [jy-portfolio](https://github.com/HSC-Class01/jy-portfolio) | [jy-portfolio-auto.vercel.app](https://jy-portfolio-auto.vercel.app/) |
+| [@yg01546](https://github.com/yg01546) | [youngjin_portfolio](https://github.com/HSC-Class01/youngjin_portfolio) | [youngjin-portfolio.vercel.app](https://youngjin-portfolio.vercel.app/) |
+| [@yoochang07](https://github.com/yoochang07) | [Yc_portfolio](https://github.com/HSC-Class01/Yc_portfolio) | [ycportfolio.vercel.app](https://ycportfolio.vercel.app/) |
+| [@yoouunaa-bit](https://github.com/yoouunaa-bit) | [LYA_portfolio](https://github.com/HSC-Class01/LYA_portfolio) | [lyaportfolio-vert.vercel.app](https://lyaportfolio-vert.vercel.app/) |
+
+### 사이트 주소 확인이 필요한 저장소
+
+| 포트폴리오 코드 저장소 | GitHub 계정 | 확인 결과 |
+| --- | --- | --- |
+| [dy_portfolio](https://github.com/HSC-Class01/dy_portfolio) | @doyeon0225 | Vercel 계정 관리 화면 주소가 등록되어 있음. 공개 포트폴리오 사이트 주소 확인 필요 |
+| [HAJEONG_portfolio](https://github.com/HSC-Class01/HAJEONG_portfolio) | @gkwjd0711-blip | Vercel 계정 관리 화면 주소가 등록되어 있음. 공개 포트폴리오 사이트 주소 확인 필요 |
+| [PSY_portfolio](https://github.com/HSC-Class01/PSY_portfolio) | @sangyun04 | 포트폴리오 사이트 주소가 등록되어 있지 않음 |
+| [SH_portfolio](https://github.com/HSC-Class01/SH_portfolio) | @jangseohyeon1 | 포트폴리오 사이트 주소가 등록되어 있지 않음 |
